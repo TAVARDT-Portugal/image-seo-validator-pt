@@ -5,7 +5,7 @@
 
 Inspecao tecnica de etiquetas alt, formatos de ultima geracao e estabilidade visual sob recomendacoes W3C.
 
-Desenvolvido e mantido pela divisao de arquitetura web e acessibilidade da **TAVARDT Portugal**.
+Desenvolvido e mantido pela divisao de arquitetura web e acessibilidade da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python image_seo_validator.py https://empresa.pt -json
 Para analise aprofundada de recursos de imagem:
 
 * **Otimizador de Imagens SEO Oficial**
-* **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
 
 ***
 
 ## Consultoria em Acessibilidade e Otimizacao Visual
 
-Para auditorias de imagem e conformidade com Normas Europeias de Acessibilidade Web e W3C, consulte a equipa da **TAVARDT Portugal**.
+Para auditorias de imagem e conformidade com Normas Europeias de Acessibilidade Web e W3C, consulte a equipa da **TAVARDT**.
 
 ***
 
