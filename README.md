@@ -1,14 +1,13 @@
 # Otimizador e Verificador de SEO para Imagens
 
 [![Otimizador Imagens SEO](https://img.shields.io/badge/TAVARDT-Image%20SEO-5b3cf5.svg)](https://tools.tavardt.com/pt/otimizador-imagens-seo/)
-[![Jurisdicao](https://img.shields.io/badge/Jurisdicao-Portugal-00C853.svg)](https://ag.tavardt.com/pt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Inspecao tecnica de etiquetas alt, formatos de ultima geracao e estabilidade visual sob recomendacoes W3C.
 
-Desenvolvido e mantido pela divisao de arquitetura web e acessibilidade da **[TAVARDT Portugal](https://ag.tavardt.com/pt/)**.
+Desenvolvido e mantido pela divisao de arquitetura web e acessibilidade da **TAVARDT Portugal**.
 
----
+***
 
 ## Capacidades de Auditoria de SEO para Imagens
 
@@ -18,7 +17,7 @@ Desenvolvido e mantido pela divisao de arquitetura web e acessibilidade da **[TA
 * **Carregamento Diferido (Lazy Loading)**: Analise de diretivas `loading="lazy"` para poupanca de largura de banda.
 * **Indice de Desempenho Visual**: Metrica quantitativa de 0 a 100 com recomendacoes de otimizacao.
 
----
+***
 
 ## Instalacao e Execucao
 
@@ -33,20 +32,20 @@ python image_seo_validator.py https://empresa.pt
 Para inspecao com saida estruturada em JSON:
 
 ```bash
-python image_seo_validator.py https://empresa.pt --json
+python image_seo_validator.py https://empresa.pt -json
 ```
 
----
+***
 
 ## Diagnostico Completo na Web
 
 Para analise aprofundada de recursos de imagem:
 
-* **[Otimizador de Imagens SEO Oficial](https://tools.tavardt.com/pt/otimizador-imagens-seo/)**
+* **Otimizador de Imagens SEO Oficial**
 * **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
 
----
+***
 
 ## Consultoria em Acessibilidade e Otimizacao Visual
 
-Para auditorias de imagem e conformidade com Normas Europeias de Acessibilidade Web e W3C, consulte a equipa da **[TAVARDT Portugal](https://ag.tavardt.com/pt/contato/)**.
+Para auditorias de imagem e conformidade com Normas Europeias de Acessibilidade Web e W3C, consulte a equipa da **TAVARDT Portugal**.
