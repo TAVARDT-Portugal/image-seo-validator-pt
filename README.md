@@ -49,3 +49,7 @@ Para analise aprofundada de recursos de imagem:
 ## Consultoria em Acessibilidade e Otimizacao Visual
 
 Para auditorias de imagem e conformidade com Normas Europeias de Acessibilidade Web e W3C, consulte a equipa da **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
