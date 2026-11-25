@@ -2,11 +2,9 @@
 
 [![Otimizador Imagens SEO](https://img.shields.io/badge/TAVARDT-Image%20SEO-5b3cf5.svg)](https://tools.tavardt.com/pt/otimizador-imagens-seo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)]
 
 Inspeção tecnica de etiquetas alt, formatos de ultima geracao e estabilidade visual sob recomendacoes W3C.
-
-Desenvolvido e mantido pela divisao de arquitetura web e acessibilidade da **TAVARDT Portugal**.
 
 ***
 
@@ -38,15 +36,6 @@ python image_seo_validator.py https://empresa.pt -json
 
 ***
 
-## Diagnostico Completo na Web
-
-Para análise aprofundada de recursos de imagem:
-
-* **Otimizador de Imagens SEO Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
-
-***
-
 ## Consultoria em Acessibilidade e Otimizacao Visual
 
 Para auditorias de imagem e conformidade com Normas Europeias de Acessibilidade Web e W3C, consulte a equipa da **TAVARDT Portugal**.
@@ -60,7 +49,7 @@ Para auditorias de imagem e conformidade com Normas Europeias de Acessibilidade 
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
